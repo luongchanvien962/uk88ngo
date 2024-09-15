@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+UK88 - Nhà Cái Cá Cược Thể Thao Nhanh và Chuyên Nghiệp Hàng Đầu Tại Anh
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nhà cái `UK88 <https://uk88.ngo/>`_ cung cấp nền tảng cược bóng đá nhanh chóng với mức hoàn trả mỗi ngày lên đến 1.8%. Hệ thống hỗ trợ hai bảng kèo K-Sports và C-Sports, cùng tỷ lệ cược được cập nhật liên tục từng giây. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 126 Thân Nhân Trung, Phường 13, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0922254411. 
 
-Contents
---------
+Email: uk88ngo@gmail.com. 
 
-.. toctree::
+Website: https://uk88.ngo/ 
 
-   usage
-   api
+#uk88, #trangchuuk88, #nhacaiuk88, #uk88ngo
